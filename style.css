@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+.first-detail
+{
+    text-align: right;
+}
+
+.orange-color
+{
+    color: #d81b66;
+}
