@@ -50,7 +50,6 @@ h1
 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background-position: right;
 }
 
 .second-half
@@ -63,7 +62,7 @@ h1
 {
     width: 80%;
     padding-top: 2%;
-    margin-left: 90px;
+    margin-left: 100px;
 }
 
 .link-button2
