@@ -17,3 +17,19 @@ h1
 {
     color: #d81b66;
 }
+
+section
+{
+    display: flex;
+}
+
+.half-width
+{
+    width: 50%;
+    padding-right: 2%;
+}
+
+.half-width img
+{
+    width: 80%;
+}
